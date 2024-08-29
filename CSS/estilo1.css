@@ -1,0 +1,32 @@
+*
+{
+    margin: 0px;
+}
+
+#caja1 /*id*/
+{
+    background-color: greenyellow;
+    width: 300px; /*ancho se usa mas*/
+    height: 250px; /*alto*/
+    padding: 20px; /*relleno*/
+    margin: 30px; /*margen*/
+    border: 10px; /*borde*/
+    border-style: dotted; /*estilo de borde punteado*/
+    border-color: rgb(5, 120, 32);
+}
+
+.caja2 /*caja*/
+{
+    background-color: rgb(121, 231, 194);
+    width: 200px; /*ancho*/
+    /*padding-top: 10px;*/ /*relleno arriba*/
+    /*padding-right: 20px; *//*relleno derecha*/
+    /*padding-bottom: 30px; *//*relleno abajo*/
+    /*padding-left: 40px;*/ /*relleno izquierda*/
+    padding: 10px 20px 30px 50px;
+    margin: 30px; /*margen*/
+    border: 7px;
+    border-style: solid;
+    border-color: rgb(109, 164, 147);
+    border-radius: 50px;
+}
